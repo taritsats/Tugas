@@ -1,7 +1,7 @@
 # Kode Fungsi Alih Motor DC
 
-## Pendahuluan
-Pada notebook ini, kita akan mengembangkan model matematis dari motor DC, melakukan transformasi Laplace, dan menentukan fungsi alih hubungan antara kecepatan sudut ($\omega$) dan tegangan (V).
+Nama : Taritsa Tsalitsatus Sholihah
+NIM : 235150301111023
 
 ## Langkah-langkah
 1. **Model Matematika Motor DC**
